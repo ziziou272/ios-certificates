@@ -1,8 +1,0 @@
-git_url("https://github.com/ziziou272/ios-certificates")
-storage_mode("git")
-type("appstore")
-app_identifier("com.publishinghouse.app")
-team_id("C89YY8LVYC")
-
-# Force legacy encryption (OpenSSL CLI format)
-force_legacy_encryption(true)
